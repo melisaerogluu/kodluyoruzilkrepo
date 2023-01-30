@@ -25,9 +25,6 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 
 
 
-
-
-
-
-
 ![fotograf](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
+[Patika linki](https://www.patika.dev/tr)
